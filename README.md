@@ -1,4 +1,6 @@
-Programming languages:
+# Some information about my skills
+
+used / known programming languages:
 - Python
 - Java
 - C
